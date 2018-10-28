@@ -17,7 +17,7 @@ public class BubbleSort {
 				}
 			}
 			if(swapped==0){
-				System.out.println("Breaked at "+i+" pass.");
+				System.out.println("Breaked at "+i+" 'th pass.");
 				break;
 			}
 		}
